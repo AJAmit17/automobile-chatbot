@@ -1,12 +1,5 @@
 # Research Paper
 
-**Members**
-* Amit Jagadeesh Achari - [amitjagadeesh2004@gmail.com](mailto:amitjagadeesh2004@gmail.com)
-* Bhagyawan Sajjanshetty - [bhagyawansajjanshetty@gmail.com](mailto:bhagyawansajjanshetty@gmail.com)
-* Gururaj Shambhu - [gurushambhu007@gmail.com](mailto:gurushambhu007@gmail.com)
-
----
-
 ## Abstract
 
 The Gemini MultiPDF Chatbot is an innovative tool in natural language processing (NLP) that combines Retrieval-Augmented Generation (RAG) techniques with the Gemini Large Language Model. Designed for the automobile industry, this chatbot allows users to interact effortlessly with vehicle user manuals and related PDF documents. By employing RAG methods, the chatbot enhances its ability to retrieve, comprehend, and generate responses based on extensive information from various automobile-related PDFs. This integration of Gemini's language comprehension with RAG ensures a seamless user experience, providing detailed and contextually relevant answers to questions about vehicle features, maintenance, and troubleshooting. This paper discusses the design, implementation, and evaluation of the Gemini MultiPDF Chatbot, highlighting its effectiveness in managing complex automotive information and delivering high-quality conversational interactions focused on vehicle user manuals.
